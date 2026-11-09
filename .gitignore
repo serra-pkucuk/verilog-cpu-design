@@ -1,0 +1,8 @@
+*.vcd
+*.vvp
+*.fst
+*.log
+sim/
+output/
+build/
+.DS_Store
